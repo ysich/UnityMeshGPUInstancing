@@ -1,0 +1,1947 @@
+fileFormatVersion: 2
+guid: 814980843a29eea47b0731f2688f7077
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: flag_idle_1_1
+  - first:
+      213: 21300002
+    second: flag_idle_1_2
+  - first:
+      213: 21300004
+    second: flag_idle_1_3
+  - first:
+      213: 21300006
+    second: flag_idle_1_4
+  - first:
+      213: 21300008
+    second: flag_idle_1_5
+  - first:
+      213: 21300010
+    second: flag_idle_1_6
+  - first:
+      213: 21300012
+    second: flag_idle_1_7
+  - first:
+      213: 21300014
+    second: flag_idle_1_8
+  - first:
+      213: 21300016
+    second: flag_idle_1_9
+  - first:
+      213: 21300018
+    second: flag_idle_1_10
+  - first:
+      213: 21300020
+    second: flag_idle_1_11
+  - first:
+      213: 21300022
+    second: flag_idle_1_12
+  - first:
+      213: 21300024
+    second: soldier_move_1_1
+  - first:
+      213: 21300026
+    second: soldier_move_1_2
+  - first:
+      213: 21300028
+    second: soldier_move_1_3
+  - first:
+      213: 21300030
+    second: soldier_move_1_4
+  - first:
+      213: 21300032
+    second: soldier_move_1_5
+  - first:
+      213: 21300034
+    second: soldier_move_1_6
+  - first:
+      213: 21300036
+    second: soldier_move_1_7
+  - first:
+      213: 21300038
+    second: soldier_move_1_8
+  - first:
+      213: 21300040
+    second: soldier_move_1_9
+  - first:
+      213: 21300042
+    second: soldier_move_1_10
+  - first:
+      213: 21300044
+    second: soldier_move_1_11
+  - first:
+      213: 21300046
+    second: soldier_move_1_12
+  - first:
+      213: 21300048
+    second: soldier_move_2_1
+  - first:
+      213: 21300050
+    second: soldier_move_2_2
+  - first:
+      213: 21300052
+    second: soldier_move_2_3
+  - first:
+      213: 21300054
+    second: soldier_move_2_4
+  - first:
+      213: 21300056
+    second: soldier_move_2_5
+  - first:
+      213: 21300058
+    second: soldier_move_2_6
+  - first:
+      213: 21300060
+    second: soldier_move_2_7
+  - first:
+      213: 21300062
+    second: soldier_move_2_8
+  - first:
+      213: 21300064
+    second: soldier_move_2_9
+  - first:
+      213: 21300066
+    second: soldier_move_2_10
+  - first:
+      213: 21300068
+    second: soldier_move_2_11
+  - first:
+      213: 21300070
+    second: soldier_move_2_12
+  - first:
+      213: 21300072
+    second: soldier_move_3_1
+  - first:
+      213: 21300074
+    second: soldier_move_3_2
+  - first:
+      213: 21300076
+    second: soldier_move_3_3
+  - first:
+      213: 21300078
+    second: soldier_move_3_4
+  - first:
+      213: 21300080
+    second: soldier_move_3_5
+  - first:
+      213: 21300082
+    second: soldier_move_3_6
+  - first:
+      213: 21300084
+    second: soldier_move_3_7
+  - first:
+      213: 21300086
+    second: soldier_move_3_8
+  - first:
+      213: 21300088
+    second: soldier_move_3_9
+  - first:
+      213: 21300090
+    second: soldier_move_3_10
+  - first:
+      213: 21300092
+    second: soldier_move_3_11
+  - first:
+      213: 21300094
+    second: soldier_move_3_12
+  - first:
+      213: 21300096
+    second: soldier_move_4_1
+  - first:
+      213: 21300098
+    second: soldier_move_4_2
+  - first:
+      213: 21300100
+    second: soldier_move_4_3
+  - first:
+      213: 21300102
+    second: soldier_move_4_4
+  - first:
+      213: 21300104
+    second: soldier_move_4_5
+  - first:
+      213: 21300106
+    second: soldier_move_4_6
+  - first:
+      213: 21300108
+    second: soldier_move_4_7
+  - first:
+      213: 21300110
+    second: soldier_move_4_8
+  - first:
+      213: 21300112
+    second: soldier_move_4_9
+  - first:
+      213: 21300114
+    second: soldier_move_4_10
+  - first:
+      213: 21300116
+    second: soldier_move_4_11
+  - first:
+      213: 21300118
+    second: soldier_move_4_12
+  - first:
+      213: 21300120
+    second: soldier_move_5_1
+  - first:
+      213: 21300122
+    second: soldier_move_5_2
+  - first:
+      213: 21300124
+    second: soldier_move_5_3
+  - first:
+      213: 21300126
+    second: soldier_move_5_4
+  - first:
+      213: 21300128
+    second: soldier_move_5_5
+  - first:
+      213: 21300130
+    second: soldier_move_5_6
+  - first:
+      213: 21300132
+    second: soldier_move_5_7
+  - first:
+      213: 21300134
+    second: soldier_move_5_8
+  - first:
+      213: 21300136
+    second: soldier_move_5_9
+  - first:
+      213: 21300138
+    second: soldier_move_5_10
+  - first:
+      213: 21300140
+    second: soldier_move_5_11
+  - first:
+      213: 21300142
+    second: soldier_move_5_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flag_idle_1_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 426
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 284
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.625, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 41
+        height: 24
+      alignment: 9
+      pivot: {x: 0.63414633, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 42
+        height: 24
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 284
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.625, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 426
+        width: 37
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5945946, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 426
+        width: 38
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6052632, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 287
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.625, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 287
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.625, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 17
+        width: 41
+        height: 24
+      alignment: 9
+      pivot: {x: 0.63414633, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.625, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag_idle_1_12
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 426
+        width: 37
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5945946, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 822
+        width: 88
+        height: 99
+      alignment: 9
+      pivot: {x: 0.71590906, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 923
+        width: 84
+        height: 100
+      alignment: 9
+      pivot: {x: 0.72619045, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 920
+        width: 87
+        height: 103
+      alignment: 9
+      pivot: {x: 0.7356322, y: 0.5048544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 816
+        width: 86
+        height: 102
+      alignment: 9
+      pivot: {x: 0.74418604, y: 0.51960784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 713
+        width: 86
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7209302, y: 0.5148515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 717
+        width: 89
+        height: 99
+      alignment: 9
+      pivot: {x: 0.71910113, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 617
+        width: 90
+        height: 98
+      alignment: 9
+      pivot: {x: 0.7222222, y: 0.47959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 606
+        width: 94
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7234042, y: 0.47524753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 683
+        width: 91
+        height: 104
+      alignment: 9
+      pivot: {x: 0.7032967, y: 0.4903846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 557
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.68817204, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 709
+        width: 93
+        height: 102
+      alignment: 9
+      pivot: {x: 0.68817204, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_1_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 511
+        width: 91
+        height: 98
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 504
+        width: 67
+        height: 100
+      alignment: 9
+      pivot: {x: 0.7164179, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 611
+        width: 65
+        height: 100
+      alignment: 9
+      pivot: {x: 0.7076923, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 818
+        width: 69
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.5148515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 403
+        width: 70
+        height: 99
+      alignment: 9
+      pivot: {x: 0.67142856, y: 0.5252525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 825
+        width: 69
+        height: 97
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0.53608245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 722
+        width: 72
+        height: 98
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.53061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 223
+        width: 72
+        height: 99
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.5252525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 185
+        width: 74
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6486486, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 924
+        width: 76
+        height: 99
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 78
+        width: 78
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6282051, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 84
+        width: 74
+        height: 99
+      alignment: 9
+      pivot: {x: 0.6216216, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_2_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 324
+        width: 71
+        height: 100
+      alignment: 9
+      pivot: {x: 0.64788735, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 180
+        width: 67
+        height: 105
+      alignment: 9
+      pivot: {x: 0.58208954, y: 0.4952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 69
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5797101, y: 0.49056605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 806
+        width: 69
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5797101, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 921
+        width: 69
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5797101, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 605
+        width: 68
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5735294, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 501
+        width: 68
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5735294, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 919
+        width: 68
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 556
+        width: 67
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5970149, y: 0.4952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 813
+        width: 67
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5970149, y: 0.4903846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 321
+        width: 66
+        height: 103
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.5145631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 452
+        width: 67
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5970149, y: 0.5048544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_3_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 452
+        width: 67
+        height: 103
+      alignment: 9
+      pivot: {x: 0.58208954, y: 0.5048544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 424
+        width: 75
+        height: 109
+      alignment: 9
+      pivot: {x: 0.6, y: 0.44036698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 535
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.59210527, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 50
+        width: 78
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6025641, y: 0.45132744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 79
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5949367, y: 0.46902654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 165
+        width: 79
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5949367, y: 0.46902654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 663
+        width: 78
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 789
+        width: 76
+        height: 111
+      alignment: 9
+      pivot: {x: 0.59210527, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 912
+        width: 76
+        height: 111
+      alignment: 9
+      pivot: {x: 0.59210527, y: 0.44144145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 173
+        width: 75
+        height: 109
+      alignment: 9
+      pivot: {x: 0.6, y: 0.44036698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 313
+        width: 73
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5890411, y: 0.44954127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 310
+        width: 73
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5890411, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_4_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 422
+        width: 73
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5890411, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 71
+        height: 119
+      alignment: 9
+      pivot: {x: 0.6760563, y: 0.40336135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 776
+        width: 70
+        height: 121
+      alignment: 9
+      pivot: {x: 0.67142856, y: 0.40495867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 899
+        width: 69
+        height: 124
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.41935483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 898
+        width: 68
+        height: 125
+      alignment: 9
+      pivot: {x: 0.6617647, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 647
+        width: 67
+        height: 123
+      alignment: 9
+      pivot: {x: 0.67164177, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 902
+        width: 69
+        height: 121
+      alignment: 9
+      pivot: {x: 0.68115944, y: 0.42975205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 280
+        width: 70
+        height: 119
+      alignment: 9
+      pivot: {x: 0.6857143, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 70
+        height: 120
+      alignment: 9
+      pivot: {x: 0.6857143, y: 0.40833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 523
+        width: 71
+        height: 122
+      alignment: 9
+      pivot: {x: 0.70422536, y: 0.4262295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 772
+        width: 70
+        height: 124
+      alignment: 9
+      pivot: {x: 0.6857143, y: 0.44354838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 649
+        width: 70
+        height: 121
+      alignment: 9
+      pivot: {x: 0.6857143, y: 0.43801653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_move_5_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 71
+        height: 120
+      alignment: 9
+      pivot: {x: 0.6760563, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      flag_idle_1_1: 21300000
+      flag_idle_1_10: 21300018
+      flag_idle_1_11: 21300020
+      flag_idle_1_12: 21300022
+      flag_idle_1_2: 21300002
+      flag_idle_1_3: 21300004
+      flag_idle_1_4: 21300006
+      flag_idle_1_5: 21300008
+      flag_idle_1_6: 21300010
+      flag_idle_1_7: 21300012
+      flag_idle_1_8: 21300014
+      flag_idle_1_9: 21300016
+      soldier_move_1_1: 21300024
+      soldier_move_1_10: 21300042
+      soldier_move_1_11: 21300044
+      soldier_move_1_12: 21300046
+      soldier_move_1_2: 21300026
+      soldier_move_1_3: 21300028
+      soldier_move_1_4: 21300030
+      soldier_move_1_5: 21300032
+      soldier_move_1_6: 21300034
+      soldier_move_1_7: 21300036
+      soldier_move_1_8: 21300038
+      soldier_move_1_9: 21300040
+      soldier_move_2_1: 21300048
+      soldier_move_2_10: 21300066
+      soldier_move_2_11: 21300068
+      soldier_move_2_12: 21300070
+      soldier_move_2_2: 21300050
+      soldier_move_2_3: 21300052
+      soldier_move_2_4: 21300054
+      soldier_move_2_5: 21300056
+      soldier_move_2_6: 21300058
+      soldier_move_2_7: 21300060
+      soldier_move_2_8: 21300062
+      soldier_move_2_9: 21300064
+      soldier_move_3_1: 21300072
+      soldier_move_3_10: 21300090
+      soldier_move_3_11: 21300092
+      soldier_move_3_12: 21300094
+      soldier_move_3_2: 21300074
+      soldier_move_3_3: 21300076
+      soldier_move_3_4: 21300078
+      soldier_move_3_5: 21300080
+      soldier_move_3_6: 21300082
+      soldier_move_3_7: 21300084
+      soldier_move_3_8: 21300086
+      soldier_move_3_9: 21300088
+      soldier_move_4_1: 21300096
+      soldier_move_4_10: 21300114
+      soldier_move_4_11: 21300116
+      soldier_move_4_12: 21300118
+      soldier_move_4_2: 21300098
+      soldier_move_4_3: 21300100
+      soldier_move_4_4: 21300102
+      soldier_move_4_5: 21300104
+      soldier_move_4_6: 21300106
+      soldier_move_4_7: 21300108
+      soldier_move_4_8: 21300110
+      soldier_move_4_9: 21300112
+      soldier_move_5_1: 21300120
+      soldier_move_5_10: 21300138
+      soldier_move_5_11: 21300140
+      soldier_move_5_12: 21300142
+      soldier_move_5_2: 21300122
+      soldier_move_5_3: 21300124
+      soldier_move_5_4: 21300126
+      soldier_move_5_5: 21300128
+      soldier_move_5_6: 21300130
+      soldier_move_5_7: 21300132
+      soldier_move_5_8: 21300134
+      soldier_move_5_9: 21300136
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

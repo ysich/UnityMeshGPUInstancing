@@ -1,0 +1,100 @@
+{"frames": {
+
+"flag_idle_1_2.png":
+{
+	"frame": {"x":41,"y":25,"w":38,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":148,"w":38,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_3.png":
+{
+	"frame": {"x":84,"y":1,"w":39,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":148,"w":39,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_4.png":
+{
+	"frame": {"x":1,"y":1,"w":40,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":148,"w":40,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_5.png":
+{
+	"frame": {"x":81,"y":25,"w":38,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":148,"w":38,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_6.png":
+{
+	"frame": {"x":76,"y":49,"w":35,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":148,"w":35,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_7.png":
+{
+	"frame": {"x":1,"y":97,"w":36,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":148,"w":36,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_8.png":
+{
+	"frame": {"x":1,"y":49,"w":38,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":148,"w":38,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_9.png":
+{
+	"frame": {"x":1,"y":73,"w":38,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":148,"w":38,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_10.png":
+{
+	"frame": {"x":43,"y":1,"w":39,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":148,"w":39,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_11.png":
+{
+	"frame": {"x":1,"y":25,"w":38,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":148,"w":38,"h":22},
+	"sourceSize": {"w":300,"h":300}
+},
+"flag_idle_1_12.png":
+{
+	"frame": {"x":39,"y":97,"w":35,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":148,"w":35,"h":22},
+	"sourceSize": {"w":300,"h":300}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "flag.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4520e32d173ab41002bb6ac3e05f67ab:23585b9c5ee636f44eba6a1e6b33c743:09596a03b85c2d68856120ca029fde15$"
+}
+}

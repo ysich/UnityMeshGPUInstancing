@@ -1,0 +1,10 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    Assets/BundleAssets/Mesh/SpriteMesh/SpriteMeshConfigData.asset: {fileID: 11400000, guid: 3ff6aaf6958faa348b0e2b4a12dac782, type: 2}
+    Assets/Mesh/MeshConfigData.asset: {fileID: 11400000, guid: a62ec392a46b07f418c5abca01a41158, type: 2}

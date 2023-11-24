@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6f6dbe44bbb1894e8d844da1af27b0f, type: 3}
+  m_Name: city_soldier
+  m_EditorClassIdentifier: 
+  key: soldier
+  spriteAnimInfo:
+    spriteAnimClips:
+    - name: move
+      loop: 1
+      fps: 12
+      soldierDirection:
+      - spriteList:
+        - {fileID: 21300024, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300026, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300028, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300030, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300032, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300034, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300036, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300038, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300040, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300042, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300044, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300046, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+      - spriteList:
+        - {fileID: 21300048, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300050, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300052, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300054, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300056, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300058, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300060, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300062, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300064, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300066, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300068, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300070, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+      - spriteList:
+        - {fileID: 21300072, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300074, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300076, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300078, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300080, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300082, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300084, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300086, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300088, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300090, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300092, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300094, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+      - spriteList:
+        - {fileID: 21300096, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300098, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300100, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300102, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300104, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300106, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300108, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300110, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300112, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300114, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300116, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300118, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+      - spriteList:
+        - {fileID: 21300120, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300122, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300124, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300126, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300128, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300130, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300132, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300134, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300136, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300138, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300140, guid: 814980843a29eea47b0731f2688f7077, type: 3}
+        - {fileID: 21300142, guid: 814980843a29eea47b0731f2688f7077, type: 3}

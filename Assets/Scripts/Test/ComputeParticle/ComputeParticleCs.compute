@@ -1,0 +1,29 @@
+// Each #kernel tells which function to compile; you can have many kernels
+#pragma kernel UpdateParticle
+
+struct ParticleData
+{
+    float3 pos;
+    float4 color;
+};
+
+// Create a RenderTexture with enableRandomWrite flag and set it
+// with cs.SetTexture
+RWTexture2D<float4> Result;
+//因为粒子很多所以用buffer缓存
+RWStructuredBuffer<ParticleData> ParticleBuffer;
+//根据时间修改粒子的位置和颜色
+float Time;
+
+[numthreads(10,10,10)]
+void UpdateParticle (uint3 gid : SV_GroupID, uint index : SV_GroupIndex)
+{
+    int pindex = gid.x * 1000 + index;
+
+    float x = sin(index);
+    float y = sin(index * 1.2f);
+    float3 forward = float3(x,y,-sqrt(1 - x * x - y* y));
+    ParticleBuffer[pindex].color = float4(forward.x,forward.y,cos(index) * 0.5f + 0.5f,1);
+    if( Time > gid.x)
+        ParticleBuffer[pindex].pos += forward * 0.005f;
+}

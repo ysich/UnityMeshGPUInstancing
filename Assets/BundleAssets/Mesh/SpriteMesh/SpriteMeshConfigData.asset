@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67bb66f3fbb2c94e9297c237e20e271, type: 3}
+  m_Name: SpriteMeshConfigData
+  m_EditorClassIdentifier: 
+  spriteMeshConfigs:
+  - textureName: flag
+    spriteMeshInfos:
+    - spriteName: flag_idle_1_2
+      pivot: {x: 0.38, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.296875, y: 0.171875, z: 0.3203125, w: 0.6328125}
+    - spriteName: flag_idle_1_3
+      pivot: {x: 0.39, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.3046875, y: 0.171875, z: 0.65625, w: 0.8203125}
+    - spriteName: flag_idle_1_4
+      pivot: {x: 0.4, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.3125, y: 0.171875, z: 0.0078125, w: 0.8203125}
+    - spriteName: flag_idle_1_5
+      pivot: {x: 0.38, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.296875, y: 0.171875, z: 0.6328125, w: 0.6328125}
+    - spriteName: flag_idle_1_6
+      pivot: {x: 0.35, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.2734375, y: 0.171875, z: 0.59375, w: 0.4453125}
+    - spriteName: flag_idle_1_7
+      pivot: {x: 0.36, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.28125, y: 0.171875, z: 0.0078125, w: 0.0703125}
+    - spriteName: flag_idle_1_8
+      pivot: {x: 0.38, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.296875, y: 0.171875, z: 0.0078125, w: 0.4453125}
+    - spriteName: flag_idle_1_9
+      pivot: {x: 0.38, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.296875, y: 0.171875, z: 0.0078125, w: 0.2578125}
+    - spriteName: flag_idle_1_10
+      pivot: {x: 0.39, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.3046875, y: 0.171875, z: 0.3359375, w: 0.8203125}
+    - spriteName: flag_idle_1_11
+      pivot: {x: 0.38, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.296875, y: 0.171875, z: 0.0078125, w: 0.6328125}
+    - spriteName: flag_idle_1_12
+      pivot: {x: 0.35, y: 0.22, z: 0, w: 0}
+      uv: {x: 0.2734375, y: 0.171875, z: 0.3046875, w: 0.0703125}
